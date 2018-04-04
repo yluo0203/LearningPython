@@ -1,5 +1,7 @@
 # LearningPython
 # Reference: codeCademy
+# Ref: http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html , by Sebastian Raschka
+
 7_StudentGrade
   Ref: codecademy
   
@@ -11,7 +13,7 @@
 9_EXAM STATISTICS
 
 10-1_ADVANCED TOPICS IN PYTHON
-  lambda expressions
+  # lambda expressions
   Use filter() and a lambda expression to print out only the squares that are between 30 and 70 (inclusive).
   Iterating Over Dictionaries
   dictionary methods: https://www.tutorialspoint.com/python/python_dictionary.htm
