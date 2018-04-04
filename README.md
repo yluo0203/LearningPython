@@ -1,6 +1,6 @@
 # LearningPython
 # Reference: codeCademy
-7_StudentGrade '\n'
+7_StudentGrade
   Ref: codecademy
   
 8_Battleship
