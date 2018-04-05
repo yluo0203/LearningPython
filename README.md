@@ -35,3 +35,5 @@ Ref: http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html , by Seb
 11 Class
   
     11-a. Object / init & delet
+    
+Matplotlib-test1
