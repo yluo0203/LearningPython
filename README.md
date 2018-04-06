@@ -37,3 +37,12 @@ Ref: http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html , by Seb
     11-a. Object / init & delet
     
 Matplotlib-test1
+
+NumpyTutorials
+
+    Ref: Numpy Tutorials | 1. Lists vs Arrays: https://youtu.be/WmXiPyEcChg
+    Ref: Numpy Tutorials | 2. Dot product 1 For loop vs cosine method vs dot function: https://youtu.be/GSxLKQNoXqM
+    Ref: Numpy Tutorials | 4. Vectors and Matrices: https://youtu.be/HycSKrideaM
+    Ref: Numpy Tutorials | 5. Generating Matrices to Work With: https://youtu.be/AzIda9DL6i8
+    Ref: Numpy Tutorials | 7. More Matrix Operations: https://youtu.be/bjbIviyddS8
+    
